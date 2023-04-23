@@ -34,7 +34,7 @@ body{
    max-width: 1200px;
   margin-left: 10%;
    margin-right: 10%;
-   background-color: rgb(228, 246, 216);
+   background-color: rgb(217, 245, 217);
 }
 
 .body {
@@ -78,7 +78,7 @@ p {
 
 /*FOOTE*/
 footer {
-  background-color: #746767;
+  background-color: #0e0753;
   color: #fff;
   padding: 0px 0;
   text-align: center;
